@@ -1,5 +1,7 @@
 # < JOBinho/>
 
+:point_right: [CLIQUE AQUI PARA VOTAR](https://discordapp.com/channels/1228404913705451612/1228406162618060913/1238607845293953166) :star:
+
 JOBinho é um assistente virtual inteligente de uma plataforma fictícia chamada SeuJOB que tem o objetivo de auxiliar com dúvidas e análises de currículos.
 
 Esse projeto foi feito como projeto final para a Imersão IA_ da alura em parceria com o Google.
@@ -66,3 +68,5 @@ As requisições ao Gemini são feitas dentro do projeto e estão estruturadas d
 # Author
 
 Feito por [Daniel Lourenço](https://github.com/danluan) 😎
+
+:point_right: [CLIQUE AQUI PARA VOTAR](https://discordapp.com/channels/1228404913705451612/1228406162618060913/1238607845293953166) :star:
